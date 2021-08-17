@@ -1,6 +1,6 @@
-package com.valerijovich.onlinebank.Controller;
+package com.valerijovich.onlinebank.controller;
 
-import com.valerijovich.onlinebank.Model.Greeting;
+import com.valerijovich.onlinebank.model.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

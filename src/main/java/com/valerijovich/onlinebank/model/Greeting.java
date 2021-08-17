@@ -1,4 +1,4 @@
-package com.valerijovich.onlinebank.Model;
+package com.valerijovich.onlinebank.model;
 
 public class Greeting {
 

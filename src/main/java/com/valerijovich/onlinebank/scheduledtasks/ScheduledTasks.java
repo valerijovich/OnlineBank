@@ -1,4 +1,4 @@
-package com.valerijovich.onlinebank.ScheduledTasks;
+package com.valerijovich.onlinebank.scheduledtasks;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
